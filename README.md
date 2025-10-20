@@ -14,6 +14,8 @@ practice00
 
 [java文件](javaDemo02/src/main/java/model/Stock.java)
 
+[Markdown語法&編輯器](https://hackmd.io/@howkii-studio/markdown_intro)
+
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
