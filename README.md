@@ -22,3 +22,4 @@ practice00
 
 - 編號
 - 分號
+<img width="606" height="495" alt="截圖 2025-10-20 上午10 37 06" src="https://github.com/user-attachments/assets/fcff3a03-c7ee-4cc6-bbf5-1ddad88d3172" />
